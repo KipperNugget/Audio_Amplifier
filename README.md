@@ -6,7 +6,9 @@ EAGLE was utilized to design the pcb
 LTspice was utilized for simulation
 
 ### Schematic
-![PowerSupply](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/e028b1f9-466d-4300-9696-67bfc979a8e2) 
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/e028b1f9-466d-4300-9696-67bfc979a8e2)" width=50% height=50%>
+
+![PowerSupply]() 
 ![audio-LR-amp](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/8726b3aa-f56c-4fce-8a45-dcf757118a27)
 ![PCB](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/ba8cc3fe-4ed6-450b-8a00-0219206d0f66)
 ### Board
