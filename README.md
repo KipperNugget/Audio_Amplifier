@@ -7,10 +7,9 @@ LTspice was utilized for simulation
 
 ### Schematic
 <img src="https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/8726b3aa-f56c-4fce-8a45-dcf757118a27" width="60%" height="50%">
+<img src="https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/8726b3aa-f56c-4fce-8a45-dcf757118a27" width="60%" height="50%">
+<img src="https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/ba8cc3fe-4ed6-450b-8a00-0219206d0f66" width="60%" height="50%">
 
-![PowerSupply]() 
-![audio-LR-amp](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/8726b3aa-f56c-4fce-8a45-dcf757118a27)
-![PCB](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/ba8cc3fe-4ed6-450b-8a00-0219206d0f66)
 ### Board
 Please excuse the disgusting finish; attempted cleaning with isopropyl alcohol, but the flux continued to stain the board.
 ![IMG_2920](https://github.com/KipperNugget/Audio_Amplifier/assets/54484042/257b156e-0b73-4c21-8ecd-88db59cea7d4)
