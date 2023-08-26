@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-03-23T19:25:28Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "audio"
+        },
+        "Owner": "Alberto Alamillo Ornelas <aornelas5@sfsu.edu>",
+        "Size": {
+            "X": 76.2,
+            "Y": 76.2
+        }
+    }
+}
