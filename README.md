@@ -1,4 +1,4 @@
-# ENGR 301 (Microelectronics Lab) 
+# ENGR 301 (Microelectronics Lab): Audio Amplifier
 
 The goal of this project was to design, source components, and assemble an audio amplifier
 
